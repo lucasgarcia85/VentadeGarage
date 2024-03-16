@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Jeep Ika 4x4 1974",
+        "image": "image1.jpg",
+        "description": "una maquina,na, una maquina,una maquina,una maquina, una maquina.",
+        "price": "$2100"
+     },
+    {
+       "name": "Product 2",
+       "image": "image2.jpg",
+       "description": "This is a description for Product 2.",
+       "price": "$200"
+    },
+    {
+       "name": "Product 3",
+       "image": "image3.jpg",
+       "description": "This is a description for Product 3.",
+       "price": "$300"
+    },
+    {
+        "name": "Product 4",
+        "image": "image4.jpg",
+        "description": "This is a description for Product 1.",
+        "price": "$2100"
+     },
+     {
+        "name": "Product 5",
+        "image": "image5.jpg",
+        "description": "This is a description for Product 1.",
+        "price": "$2100"
+     }
+     
+    
+   ]
+   
