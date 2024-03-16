@@ -8,7 +8,7 @@ async function getClientsJson() {
                 card.className = 'card';
                 card.innerHTML = `
                     <h2>${product.name}</h2>
-                    <img src="assets/data/img/${product.image}" alt="${product.name}">
+                    <img src="/assets/data/img/${product.image}" alt="${product.name}">
                     <p>${product.description}</p>
                     <p><b>Price: ${product.price}</b></p>
                     <div>
