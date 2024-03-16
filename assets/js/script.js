@@ -21,9 +21,10 @@ async function getClientsJson() {
                 cardsContainer.appendChild(card);
             });
         }
-    } catch (error) {
-        console.error("Error fetching JSON:", error);
-    }
+    } 
+    // catch (error) {
+    //     console.error("Error fetching JSON:", error);
+    // }
 }
 
 // Call the function
