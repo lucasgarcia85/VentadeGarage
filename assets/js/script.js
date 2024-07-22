@@ -10,7 +10,7 @@ async function getClientsJson() {
                     <h2>${product.name}</h2>
                    
                     <div class="divimagen">
-                    <img class="imgs" id="imgs" src="/assets/data/img/${product.image}" alt="${product.name} onclick="mostrarImagen()">
+                    <img class="imgs" id="imgs" src="/assets/data/img/${product.image}" alt="${product.name}">
                     </div>
                     
                    
@@ -40,14 +40,6 @@ getClientsJson();
 
 
 
- // Obtener todos los elementos con la clase 'imgs'
-var imagenes = document.querySelectorAll('.imgs');
-
-// Iterar sobre cada elemento obtenido
-imagenes.forEach(function(imagen) {
-    // Establecer el ancho de cada imagen a 50px
-    imagen.style.width = "50px";
-});
 
 // function mostrarImagen() {
 //     document.getElementsById('imgs').style.width = "50px";
