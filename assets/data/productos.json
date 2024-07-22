@@ -1,35 +1,78 @@
 [
     {
-        "name": "Jeep Ika 4x4 1974",
-        "image": "image1.jpg",
-        "description": "una maquina,na, una maquina,una maquina,una maquina, una maquina.",
-        "price": "$2100"
+        "name": "Licuadora Philips",
+        "image": "1.jpg",
+        "description": "Licuadora funcionando con jarra reparada, no pierde, usable, 400watts",
+        "price": "$8500"
      },
     {
-       "name": "Product 2",
-       "image": "image2.jpg",
-       "description": "This is a description for Product 2.",
-       "price": "$200"
+       "name": "Plancha Philips Diva 130",
+       "image": "2.jpg",
+       "description": "PLancha usada funcionando.",
+       "price": "$9000"
     },
     {
-       "name": "Product 3",
-       "image": "image3.jpg",
-       "description": "This is a description for Product 3.",
-       "price": "$300"
+       "name": "Plancha de cabello Gama",
+       "image": "3.jpg",
+       "description": "Tourmaline CP3M HPT.",
+       "price": "$2500"
     },
     {
-        "name": "Product 4",
-        "image": "image4.jpg",
-        "description": "This is a description for Product 1.",
-        "price": "$2100"
-     },
-     {
-        "name": "Product 5",
-        "image": "image5.jpg",
-        "description": "This is a description for Product 1.",
-        "price": "$2100"
-     }
-     
+      "name": "Plancha Philips Diva 130",
+      "image": "2.jpg",
+      "description": "PLancha usada funcionando.",
+      "price": "$5000"
+   },
+   {
+      "name": "Plancha Philips Diva 130",
+      "image": "2.jpg",
+      "description": "PLancha usada funcionando.",
+      "price": "$5000"
+   },
+   {
+      "name": "Plancha Philips Diva 130",
+      "image": "2.jpg",
+      "description": "PLancha usada funcionando.",
+      "price": "$5000"
+   },
+   {
+      "name": "Plancha Philips Diva 130",
+      "image": "2.jpg",
+      "description": "PLancha usada funcionando.",
+      "price": "$5000"
+   },
+   {
+      "name": "Plancha Philips Diva 130",
+      "image": "2.jpg",
+      "description": "PLancha usada funcionando.",
+      "price": "$5000"
+   },
+   {
+      "name": "Plancha Philips Diva 130",
+      "image": "2.jpg",
+      "description": "PLancha usada funcionando.",
+      "price": "$5000"
+   },
+   {
+      "name": "Plancha Philips Diva 130",
+      "image": "2.jpg",
+      "description": "PLancha usada funcionando.",
+      "price": "$5000"
+   },
+   {
+      "name": "Plancha Philips Diva 130",
+      "image": "2.jpg",
+      "description": "PLancha usada funcionando.",
+      "price": "$5000"
+   },
+   {
+      "name": "Plancha Philips Diva 130",
+      "image": "2.jpg",
+      "description": "PLancha usada funcionando.",
+      "price": "$5000"
+   }
+
+   
     
    ]
    
