@@ -19,7 +19,7 @@ async function getClientsJson() {
                         <p>${product.description}</p>
                         <p><b>Price: ${product.price}</b></p>
                         <div class="descripcion">
-                            <a href="https://wa.me/1234567890?text=Consultar por este producto: ${product.name}" target="_blank" >
+                            <a href="https://wa.me/5491126300818?text=Consultar por este producto: ${product.name}" target="_blank" >
                             Consulta
                             </a>
                             <img src="assets/img/whatsapp.png" alt="WhatsApp Icon">
