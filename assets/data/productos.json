@@ -3,13 +3,13 @@
         "name": "Licuadora Philips",
         "image": "1.jpg",
         "description": "Licuadora funcionando con jarra reparada, no pierde, usable, 400watts",
-        "price": "$8500"
+        "price": "$4500"
      },
     {
        "name": "Plancha Philips Diva 130",
        "image": "2.jpg",
        "description": "PLancha usada funcionando.",
-       "price": "$9000"
+       "price": "$5000"
     },
     {
        "name": "Plancha de cabello Gama",
@@ -33,7 +33,7 @@
       "name": "Cama dos plazas desarmable",
       "image": "6.jpg",
       "description": "Cama 2 plazas con maderas extendibles. Es desarmable. Buen estado",
-      "price": "$15000"
+      "price": "$20000"
    },
    {
       "name": "Mesas de luz de pino",
@@ -66,18 +66,23 @@
       "price": "$14000"
    },
    {
-      "name": "Mesa Ratona de vidrio",
-      "image": "12.jpg",
-      "description": "Mesa ratona aprox 50cm x 40cm.",
-      "price": "$12000"
+     "name": "Mesa Ratona de madera con rueditas",
+     "image": "12.jpg",
+     "description": "Mesa ratona aprox 80cm x 50cm.",
+     "price": "$14000"
    },
    {
-      "name": "Mesa Ratona de madera con rueditas",
-      "image": "12.jpg",
-      "description": "Mesa ratona aprox 100cm x 50cm.",
-      "price": "$15000"
+     "name": "Mesa Ratona de vidrio",
+     "image": "13.jpg",
+     "description": "Mesa ratona aprox 50cm x 40cm.",
+     "price": "$12000"
+   },
+   {
+     "name": "Lavarropas Drean vertical",
+     "image": "14.jpg",
+     "description": "Mesa ratona aprox 50cm x 40cm.",
+     "price": "$20000"
    }
-
 
 
    ]
