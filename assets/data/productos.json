@@ -18,61 +18,66 @@
        "price": "$2500"
     },
     {
-      "name": "Plancha Philips Diva 130",
-      "image": "2.jpg",
-      "description": "PLancha usada funcionando.",
-      "price": "$5000"
+      "name": "Vinoteca para 15 Botellas",
+      "image": "4.jpg",
+      "description": "En buen estado",
+      "price": "$6000"
    },
    {
-      "name": "Plancha Philips Diva 130",
-      "image": "2.jpg",
-      "description": "PLancha usada funcionando.",
-      "price": "$5000"
+      "name": "Radiador a aceite italiano",
+      "image": "5.jpg",
+      "description": "Estufa radiador a aceite 1000W y 2000W.Usada funcionando.",
+      "price": "$14000"
    },
    {
-      "name": "Plancha Philips Diva 130",
-      "image": "2.jpg",
-      "description": "PLancha usada funcionando.",
-      "price": "$5000"
+      "name": "Cama dos plazas desarmable",
+      "image": "6.jpg",
+      "description": "Cama 2 plazas con maderas extendibles. Es desarmable. Buen estado",
+      "price": "$15000"
    },
    {
-      "name": "Plancha Philips Diva 130",
-      "image": "2.jpg",
-      "description": "PLancha usada funcionando.",
-      "price": "$5000"
+      "name": "Mesas de luz de pino",
+      "image": "7.jpg",
+      "description": "Juego de mesas de Luz pino. Buen estado.",
+      "price": "$14000"
    },
    {
-      "name": "Plancha Philips Diva 130",
-      "image": "2.jpg",
-      "description": "PLancha usada funcionando.",
-      "price": "$5000"
+      "name": "Memoria Sodimm Ddr3 Low voltaje 4gb 12800",
+      "image": "8.jpg",
+      "description": "Memoria Ddr3 L 1.35v. Usada funcionando.",
+      "price": "$10000"
    },
    {
-      "name": "Plancha Philips Diva 130",
-      "image": "2.jpg",
-      "description": "PLancha usada funcionando.",
-      "price": "$5000"
+      "name": "Mesa de Tv",
+      "image": "9.jpg",
+      "description": "Mesa para Tv 32pulgadas maximo. Muy buen estado.",
+      "price": "$9000"
    },
    {
-      "name": "Plancha Philips Diva 130",
-      "image": "2.jpg",
-      "description": "PLancha usada funcionando.",
-      "price": "$5000"
+      "name": "Mesa antigua de Tv",
+      "image": "10.jpg",
+      "description": "Mesa de Tv con lugar para guardas cosas.",
+      "price": "$8000"
    },
    {
-      "name": "Plancha Philips Diva 130",
-      "image": "2.jpg",
-      "description": "PLancha usada funcionando.",
-      "price": "$5000"
+      "name": "Mesa Ratona de vidrio",
+      "image": "11.jpg",
+      "description": "Mesa ratona aprox 80cm x 50cm.",
+      "price": "$14000"
    },
    {
-      "name": "Plancha Philips Diva 130",
-      "image": "2.jpg",
-      "description": "PLancha usada funcionando.",
-      "price": "$5000"
+      "name": "Mesa Ratona de vidrio",
+      "image": "12.jpg",
+      "description": "Mesa ratona aprox 50cm x 40cm.",
+      "price": "$12000"
+   },
+   {
+      "name": "Mesa Ratona de madera con rueditas",
+      "image": "12.jpg",
+      "description": "Mesa ratona aprox 100cm x 50cm.",
+      "price": "$15000"
    }
 
-   
-    
+
+
    ]
-   
