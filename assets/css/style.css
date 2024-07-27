@@ -10,10 +10,15 @@ header{
         background-color: #c6b9b9;
         
 
-    & h1{ 
+    h1{ 
+        font-size: 3rem;
         text-align: center;
         padding: 40px 0px;
 
+    }
+    h2{
+        text-align: center;
+        padding-bottom: 1rem;
     }
 }
 
