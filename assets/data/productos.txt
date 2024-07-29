@@ -1,0 +1,6 @@
+{
+     "name": "Lavarropas Drean vertical",
+     "image": "14.jpg",
+     "description": "Lavarropas funcionando con tapa rota.",
+     "price": "$30000"
+   }
