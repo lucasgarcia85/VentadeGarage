@@ -10,7 +10,7 @@ async function getClientsJson() {
                     <h2>${product.name}</h2>
                    
                     <div class="divimagen">
-                    <img class="imgs" id="imgs" src="/assets/data/img/${product.image}" alt="${product.name}">
+                    <img class="imgs" id="imgs" src="assets/data/img/${product.image}" alt="${product.name}">
                     </div>
                     
                    
