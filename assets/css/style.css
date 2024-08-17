@@ -3,7 +3,9 @@
     padding: 0px; }
   
   body {
-    font-family: Arial, sans-serif; }
+    font-family: Arial, sans-serif;
+    
+  }
 
   body>div{
     z-index: -5 !important;
@@ -22,7 +24,7 @@
 
    
   #cards-container {
-   
+    background-color: #faf8f8;
     padding-bottom: 20px;
     padding-top: 20px;
     display: flex;
