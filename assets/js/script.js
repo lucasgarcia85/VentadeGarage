@@ -76,6 +76,12 @@ const productsArray = [
      image: "13.jpg",
      description: "Mesa ratona aprox 50cm x 40cm.",
      price: "$35000"
+   },
+   {
+    name: "Lavarropas Drean vertical",
+    image: "14.jpg",
+    description: "Lavarropas funcionando con tapa rota.",
+    price: "$45000"
    }
     // Agrega más productos según sea necesario
 ];
